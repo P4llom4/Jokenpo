@@ -8,4 +8,5 @@
 
 > Recursos
 - HTML
+- CSS
 - JavaScript
