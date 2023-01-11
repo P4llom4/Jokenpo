@@ -6,7 +6,7 @@
 
 ![preview](./.github/preview.png)
 
-> Recursos
+> Tecnologias
 - HTML
 - CSS
 - JavaScript
